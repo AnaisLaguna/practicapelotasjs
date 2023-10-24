@@ -13,6 +13,6 @@ function bingoGame (ballColor,ballNum){
     return result
 }
 
-console.log (bingoGame("azul",3));
+console.log (bingoGame("rojo",3));
 console.log (bingoGame("red",7));
 console.log(bingoGame("verde",2));
